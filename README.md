@@ -16,7 +16,7 @@ This project was built for our Semiconductor Mini Project.
 - 1 x Breadboard (1 x ₹92)
 - Jumper Cables (1 x ₹106)
 - 1.75mm PLA Filament (1 x 1200)*
-- 3D Printed Parts (₹1.2 x 206)
+- 3D Printed Parts (₹1.2 x 206g)
 
 > Note: *PLA Filament was already available with us, so we didn't have to buy it.
 
