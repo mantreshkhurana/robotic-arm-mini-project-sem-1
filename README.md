@@ -34,7 +34,7 @@ This project was built for our Semiconductor Mini Project.
 
 ## Circuit Diagram
 
-![Circuit Diagram](./images/image.jpeg)
+<kbd>![Circuit Diagram](./images/image.jpeg)</kbd>
 
 ## App
 
