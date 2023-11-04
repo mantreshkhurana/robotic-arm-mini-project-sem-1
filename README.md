@@ -5,6 +5,18 @@
 This Robotic ARM is built using a 3D Printer, this robotic arm is controlled using a mobile app built on [MIT App Inventor](http://ai2.appinventor.mit.edu/).
 This project was built for our Semiconductor Mini Project.
 
+## Table of Contents
+
+- [Robotic ARM (Mini Project)](#robotic-arm-mini-project)
+  - [Table of Contents](#table-of-contents)
+  - [Components & Cost](#components--cost)
+  - [Circuit Diagram](#circuit-diagram)
+  - [App](#app)
+    - [Download APK](https://github.com/mantreshkhurana/robotic-arm-mini-project-sem-1/releases/download/1.0.0/Robotic_ARM_Controller.apk)  
+  - [License](#license)
+  - [Credits](#credits)
+  - [Authors](#authors)
+
 ## Components & Cost
 
 `Total Cost = ~ ₹3,428`
@@ -27,6 +39,8 @@ This project was built for our Semiconductor Mini Project.
 ## App
 
 App was built using [MIT App Inventor](http://ai2.appinventor.mit.edu/).
+
+[`Download APK`](https://github.com/mantreshkhurana/robotic-arm-mini-project-sem-1/releases/download/1.0.0/Robotic_ARM_Controller.apk)
 
 ![App](./images/app.png)
 
