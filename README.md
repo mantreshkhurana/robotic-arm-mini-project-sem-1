@@ -7,12 +7,15 @@ This project was built for our Semiconductor Mini Project.
 
 ## Components & Cost
 
+`Total Cost = ~ ₹3,428`
+
 - 1 x Arduino Uno (1 x ₹779)
 - 1 x HC-05 Bluetooth Module (1 x ₹335)
 - 3 x SG90 Servo Motors (3 x ₹164)
 - 3 x MG996R Servo Motors (3 x ₹459)
 - 1 x Breadboard (1 x ₹92)
 - Jumper Cables (1 x ₹106)
+- 3D Printed Parts (₹1.2 x 206)
 
 ## Circuit Diagram
 
